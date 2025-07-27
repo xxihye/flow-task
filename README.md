@@ -20,15 +20,12 @@
 - jquery
 - Axios
 
-### DevOps & Infra
+### Infra
 - AWS EC2 (Amazon Linux 2023)
 - Docker & Docker Compose
-- dockerize 
-- shell script 기반 배포 자동화
 
 ## 배포 환경
 - Amazon EC2에 MySQL을 Docker로 띄우고, Spring Boot 애플리케이션을 `.jar` 파일로 실행
-- `dockerize` 도구를 활용하여 DB가 준비될 때까지 애플리케이션 실행을 지연
 
 ## 관리자 기능
 - 커스텀 확장자 등록 및 수정
