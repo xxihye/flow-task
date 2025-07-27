@@ -1,0 +1,15 @@
+.label-small-bold {
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+.badge-box {
+    border: 1px solid #dee2e6;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-top: 0.5rem;
+}
+.badge-item {
+    display: inline-flex;
+    align-items: center;
+    padding-right: 0.5rem;
+}
