@@ -28,6 +28,7 @@
 - Amazon EC2에 MySQL을 Docker로 띄우고, Spring Boot 애플리케이션을 `.jar` 파일로 실행
 
 ## 관리자 기능
+[API 명세 보기 (Swagger)](http://www.xxihye.online/swagger-ui/index.html)
 - 커스텀 확장자 등록 및 수정
 - 고정 확장자 사용 여부 On/Off 전환
 
